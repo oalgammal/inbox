@@ -1,0 +1,25 @@
+{
+  "name": "inbox",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oalgammal/inbox.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/oalgammal/inbox/issues"
+  },
+  "homepage": "https://github.com/oalgammal/inbox#readme",
+  "dependencies": {
+    "ganache-cli": "^6.12.2",
+    "mocha": "^10.0.0",
+    "solc": "^0.4.26",
+    "web3": "^1.8.0"
+  }
+}
